@@ -4,5 +4,4 @@
 #
 #    pip-compile
 #
-pyaudio
 synthesizer
