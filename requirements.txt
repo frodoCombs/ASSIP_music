@@ -4,5 +4,6 @@
 #
 #    pip-compile
 #
+pyaudio
 synthesizer
 pandas
