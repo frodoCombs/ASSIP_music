@@ -1,4 +1,7 @@
 # ASSIP_music
-Protein music 
+Protein music
 
-https://mybinder.org/v2/gh/frodoCombs/ASSIP_music/6e86ddfd52832e8a7ae806ab776fdc3351c1b840
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/frodoCombs/ASSIP_music/master)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/frodoCombs/ASSIP_music/master
