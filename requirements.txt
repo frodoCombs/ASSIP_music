@@ -4,5 +4,7 @@
 #
 #    pip-compile
 #
-synthesizer
+numpy
 pandas
+scipy.signal
+sounddevice
