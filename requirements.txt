@@ -4,6 +4,7 @@
 #
 #    pip-compile
 #
+pyaudio
 numpy
 pandas
 scipy
